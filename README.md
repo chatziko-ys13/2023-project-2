@@ -13,7 +13,7 @@ Tasks:
 
 1. Βρείτε το MD5 digest του plaintext password
 1. Βρείτε το plaintext password
-1. Βρείτε το περιεχόμενο του αρχίου `/etc/secret` στον server
+1. Βρείτε το περιεχόμενο του αρχείου `/etc/secret` στον server
 1. Βρείτε το αποτέλεσμα της εντολής `lspci` στον server
 
 
